@@ -1,7 +1,7 @@
 var jakeImg, pathImg, path, jake, left_boundary, right_boundary;
 function preload(){
  
-  jakeImg=loadAnimation("Jake1.png", "Jake2.png", "Jake3.png", "Jake4.png", "Jake5.png");
+  jakeImg=loadAnimation("Jake1.png", "Jake2.png", "jake3.png", "jake4.PNG", "jake5.png");
   pathImg=loadImage("path.png");
 }
 
